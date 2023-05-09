@@ -21,6 +21,8 @@ $ npm install
 $ npm start
 ```
 
-* Disponível em <https://goofy-mccarthy-e3ab63.netlify.com/>
 ![image](https://user-images.githubusercontent.com/22485428/235176617-f1be4432-80c7-469a-8e92-cc82179f4646.png)
+
+
+* [Acesse aqui a aplicação] (<https://goofy-mccarthy-e3ab63.netlify.com/>)
 
